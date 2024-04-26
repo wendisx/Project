@@ -1,0 +1,15 @@
+E:\Vscode_C#\FlyGame\bin\Debug\net6.0\FlyGame.exe
+E:\Vscode_C#\FlyGame\bin\Debug\net6.0\FlyGame.deps.json
+E:\Vscode_C#\FlyGame\bin\Debug\net6.0\FlyGame.runtimeconfig.json
+E:\Vscode_C#\FlyGame\bin\Debug\net6.0\FlyGame.dll
+E:\Vscode_C#\FlyGame\bin\Debug\net6.0\FlyGame.pdb
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.csproj.AssemblyReference.cache
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.AssemblyInfoInputs.cache
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.AssemblyInfo.cs
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.csproj.CoreCompileInputs.cache
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.dll
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\refint\FlyGame.dll
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.pdb
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\FlyGame.genruntimeconfig.cache
+E:\Vscode_C#\FlyGame\obj\Debug\net6.0\ref\FlyGame.dll
